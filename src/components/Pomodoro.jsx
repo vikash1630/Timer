@@ -46,7 +46,7 @@ function Pomodoro() {
                         className="w-40 text-lg bg-slate-700 text-orange-300 font-medium rounded-lg p-2 text-center focus:outline-none focus:ring-4 focus:ring-orange-500 transition-all duration-200"
                     >
                         <option value="">Work Time</option>
-                        <option value="0.1">1 min</option>
+                        <option value="1">1 min</option>
                         <option value="5">5 min</option>
                         <option value="10">10 min</option>
                         <option value="15">15 min</option>
@@ -71,7 +71,7 @@ function Pomodoro() {
                         className="w-40 text-lg bg-slate-700 text-orange-300 font-medium rounded-lg p-2 text-center focus:outline-none focus:ring-4 focus:ring-orange-500 transition-all duration-200"
                     >
                         <option value="">Break Time</option>
-                        <option value="0.1">1 min</option>
+                        <option value="1">1 min</option>
                         <option value="2">2 min</option>
                         <option value="3">3 min</option>
                         <option value="4">4 min</option>
